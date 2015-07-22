@@ -1,0 +1,7 @@
+# Ignores
+\.DS_Store
+\.classpath
+\.settings
+\.metadata/
+Servers/
+target/
